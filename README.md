@@ -54,3 +54,13 @@ This project **may not be used for any commercial purposes**.
 
 It includes **third-party assets** such as visuals, sound effects, and music that are **not licensed for commercial redistribution or use**.
 
+## 🙏 Special Thanks
+
+Special thanks to the following contributors for their collaboration and support:
+
+- [@mutluyasin](https://github.com/mutluyasin)
+- [@zeynepyorulmaz](https://github.com/zeynepyorulmaz)
+- [@kaymakcioglubora](https://github.com/kaymakcioglubora)
+- [@burakozkya](https://github.com/burakozkya)
+- [@bekiralegozz](https://github.com/bekiralegozz)
+
