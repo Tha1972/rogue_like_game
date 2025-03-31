@@ -36,7 +36,7 @@ Explore **4 distinct halls**, place objects to hide the key, fight enemies, coll
 
 ## 👹 Boss Battle
 
-- After clearing all 4 halls, you'll face an intense **boss fight**  
+- After clearing all 4 halls, you'll face an intense **boss fight** with 2 different phases.
 - Includes custom animations, patterns, and combat phases  
 - **Easter Egg**: Under specific conditions, **"115"** plays as a tribute to *Black Ops 1 – Kino Der Toten*  
 
@@ -48,4 +48,9 @@ Explore **4 distinct halls**, place objects to hide the key, fight enemies, coll
 - Dynamic background music  
 - Hidden music triggers for easter eggs  
 
+## ⚠️ Usage Notice
+
+This project **may not be used for any commercial purposes**.
+
+It includes **third-party assets** such as visuals, sound effects, and music that are **not licensed for commercial redistribution or use**.
 
