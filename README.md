@@ -48,9 +48,4 @@ Explore **4 distinct halls**, place objects to hide the key, fight enemies, coll
 - Dynamic background music  
 - Hidden music triggers for easter eggs  
 
----
 
-## 📦 How to Run
-
-```bash
-python3 main.py
